@@ -1,0 +1,5 @@
+Write and run a Python program which takes as input a month number and outputs the
+equivalent month name. For example, if the input is 10 the output would be “October.”
+
+Hint: Use a switch statement. Switch statements are not required for this answer,
+though....
